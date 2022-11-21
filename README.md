@@ -7,23 +7,12 @@
 <sup><i> Pandas Challenge - UofT Data Analytics BootCamp</i></sup>
 </P>
 
-<img src="https://github.com/theidari/pandas-challenge/blob/main/overview2.png" width="200"><img src="https://github.com/theidari/pandas-challenge/blob/main/Code.png" width="203"><img src="https://github.com/theidari/pandas-challenge/blob/main/Results.png" width="203"> <img src="https://github.com/theidari/pandas-challenge/blob/main/Refe3.png" width="200">
+<b> | ◰</b> [Overview of Project](https://github.com/theidari/VBA-challenge#1-overview-of-project)<b> | ◱</b> [Code](https://github.com/theidari/VBA-challenge#2-code)<b> | ◲</b> [Results](https://github.com/theidari/VBA-challenge#3-results)<b> | ◳</b> [Documents & References](https://github.com/theidari/VBA-challenge#5-References)<b> |</b>
 
 
 <b>Please let me know your [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeGzjpBarW10Wo8ApcSHtgchsMPmnSEgx5qDBnDGbkV1wQwDQ/viewform?usp=sf_link), Tnx<i>!</i></b>
 
 
-
-<details open><summary>Table of Contents</summary>
-
-1. [Overview of Project](https://github.com/theidari/VBA-challenge#1-overview-of-project)  
-   1. [Objective](https://github.com/theidari/VBA-challenge#i-objective)
-   2. [Methods and Software](https://github.com/theidari/VBA-challenge#ii-methods-and-software)
-2. [Code](https://github.com/theidari/VBA-challenge#2-code)
-3. [Result](https://github.com/theidari/VBA-challenge#3-results)
-4. [Explore The Docs](https://github.com/theidari/VBA-challenge#4-Explore-The-Docs)
-5. [References](https://github.com/theidari/VBA-challenge#5-References)
-</details>
 
 ## ◰ Overview of Project
 You are the new Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
