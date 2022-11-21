@@ -7,7 +7,7 @@
 <sup><i> Pandas Challenge - UofT Data Analytics BootCamp</i></sup>
 </P>
 
-<img src="https://github.com/theidari/pandas-challenge/blob/main/overview2.png" width="200">
+<img src="https://github.com/theidari/pandas-challenge/blob/main/overview2.png" width="200"><img src="https://github.com/theidari/pandas-challenge/blob/main/Code.png" width="203">
 
 <b>Please let me know your [feedback](https://docs.google.com/forms/d/e/1FAIpQLSeGzjpBarW10Wo8ApcSHtgchsMPmnSEgx5qDBnDGbkV1wQwDQ/viewform?usp=sf_link), Tnx<i>!</i></b>
 
