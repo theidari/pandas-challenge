@@ -33,11 +33,17 @@
 This project used python programming language and jupyter notebook to analyze school budgets and priorities and report school performance to the school board and mayor for making strategic decisions based on math and reading scores.
 
 ### Objective:
-<table align="center" table border="1px" bordercolor="b">
+
+
+<table border="5px" bordercolor = "red">
 <tr>
+<td >
+<table>
+<tr> 
 <td>
+
 <table border="2px" bordercolor="#F35557">
-<h4 align="center"><b><ins>District Summary</ins></b></h4>
+<h4 align="center"><b>⓵ District Summary</b></h4>
 <tr>
 <td>
     Create a dataframe to hold:</br>
@@ -54,10 +60,12 @@ This project used python programming language and jupyter notebook to analyze sc
 </td>
 </tr>
 </table>
+
 </td>
 <td>
+
 <table border="2px" bordercolor="#F35557">
-<h4 align="center"><b><ins>School Summary</ins></b></h4>
+<h4 align="center"><b>⓶ School Summary</b></h4>
 <tr>
 <td>
     Create a dataframe to hold:</br>
@@ -74,44 +82,40 @@ This project used python programming language and jupyter notebook to analyze sc
 </td>
 </tr>
 </table>
+
+
+
+</td> </tr>
+</table>
 </td>
-<td>
-<table border="2px" bordercolor="#F35557">
-<h4 align="center"><b><ins>School Performance</ins></b></h4>
+</tr>
 <tr>
 <td>
-    Create a dataframe to hold:</br>
-        - School Name</br>
-        - School Type</br>
-        - Total Students</br>
-        - Total School Budget</br>
-        - Per Student Budget</br>
-        - Average Math Score</br>
-        - Average Reading Score</br>
-        - % Passing Math</br>
-        - % Passing Reading</br>
-        - % Overall Passing</br>
+
+<table border="2px" bordercolor="#F35557">
+<h4 align="center"><b>⓷ School Performance</b></h4>
+<tr>
+<td>
+        - top five (% overall passing)</br>
+        - top five (% overall passing)</br>
+        - table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school</br>
+        - table that lists the average reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school</br>
+        - Score by Spending Ranges (Per Student) / School Size / School Type, include:</br>
+            * Average Math Score</br>
+            * Average Reading Score</br>
+            * % Passing Math</br>
+            * % Passing Reading</br>
+            * Overall Passing Rate</br>
+            </br>
 </td>
 </tr>
 </table>
 </td>
+
 </tr>
 </table>
 
-School Performance
 
-    Create an overview table that summarizes key metrics about each school, including:
-        School Name
-        School Type
-        Total Students
-        Total School Budget
-        Per Student Budget
-        Average Math Score
-        Average Reading Score
-        % Passing Math
-        % Passing Reading
-        % Overall Passing
-    Create a dataframe to hold the above results
 
 
 
