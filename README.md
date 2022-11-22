@@ -129,6 +129,8 @@ This project used python programming language and jupyter notebook to analyze sc
 
 ## ◱ Code
 
+<a href="https://github.com/theidari/pandas-challenge/blob/main/PyCitySchools/Main.ipynb">Code</a>
+
 ## ◲ Result
 
 ## ◳ Documents & References
