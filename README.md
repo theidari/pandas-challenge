@@ -132,6 +132,59 @@ This project used python programming language and jupyter notebook to analyze sc
 <a href="https://github.com/theidari/pandas-challenge/blob/main/PyCitySchools/Main.ipynb">Code</a>
 
 ## ◲ Result
+### District Summary
+The results of 15 schools show that: The total amount of budget is 24,649,428,00 $. and the percentage of overall passing is 65.17, Also passing reading course is easier than math by 85.81%.
+
+> <sub>District Summary</sub>
+<img src="https://github.com/theidari/pandas-challenge/blob/main/PyCitySchools/Results%20Images/District%20Summary.png">
+
+### School Summary
+Below table compares 15 schools e.g. type, total students, budget and etc.</br>
+
+> <sub>School Summary</sub>
+<img src="https://github.com/theidari/pandas-challenge/blob/main/PyCitySchools/Results%20Images/School%20Summry.png">
+After Sorting by % overall passing, it shows charter type schools outperform others with more than 90%. probably due to less number of students even though the budget per students are less than district type schools. also in chater schools both math and reading course average are the same and they are uper than 80, but in district school they are not equal and student in this type schools have a weakness in math course with average of 77 and passing rate of 66 %.</br>
+
+> <sub>School Summary Top Performing</sub>
+<img src="https://github.com/theidari/pandas-challenge/blob/main/PyCitySchools/Results%20Images/Top%20Performing.png">
+
+> <sub>School Summary Bottom Performing</sub>
+<img src="https://github.com/theidari/pandas-challenge/blob/main/PyCitySchools/Results%20Images/Bottom%20Performing.png"></br>
+
+### Math / Reading Score by Grade
+According to the following tables, Math scores are averagely less than the reading scores across schools. Moreover, the math score decreases as the grade increases. However, this pattern is not observable for reading scores. 
+
+<table border="0.1px" bordercolor="#8707B0">
+<tr>
+<td>
+
+> <sub>Math Score by Grade</sub>
+<img src="https://github.com/theidari/pandas-challenge/blob/main/PyCitySchools/Results%20Images/Math%20Score%20by%20Grade.png"></br>
+
+</td>
+<td>
+
+> <sub>Reading Score by Grade</sub>
+<img src="https://github.com/theidari/pandas-challenge/blob/main/PyCitySchools/Results%20Images/Reading%20Score%20by%20Grade.png"></br>
+
+</td>
+</tr>
+</table>
+
+### Score by School Spending
+Results indicate that by increasing Spending the money per student, the Overall average and overall percent decreases across all schools.</br>
+> <sub>Score by School Spending</sub>
+<img src="https://github.com/theidari/pandas-challenge/blob/main/PyCitySchools/Results%20Images/Spending%20Ranges%20(Per%20Student).png"></br>
+
+### Score by School Size
+Results indicate that increasing the number of students up to 2000 does not affect the students results,but the schools with more than 2000 students significantly affect the performance.</br>
+> <sub>Score by School Size</sub>
+<img src="https://github.com/theidari/pandas-challenge/blob/main/PyCitySchools/Results%20Images/School%20Size.png"></br>
+
+### Score by School Type
+Chater schools with an overall passing of >90% significantly outperform distric schools with an average of 53%.</br>
+> <sub>Score by School Type</sub>
+<img src="https://github.com/theidari/pandas-challenge/blob/main/PyCitySchools/Results%20Images/School%20Type.png"></br>
 
 ## ◳ Documents & References
 
@@ -150,14 +203,9 @@ This project used python programming language and jupyter notebook to analyze sc
 </td>
 <td>
 <table border="2px" bordercolor="#F35557">
-<h4 align="center">Results Images</h4>
+<h4 align="center"<b><ins>Results Images</ins></b></h4>
 <tr>
-<td>nested table C1</td>
-<td>nested table C2</td>
-</tr>
-<tr>
-<td>nested table</td>
-<td>nested table</td>
+<center><td><a href="https://github.com/theidari/pandas-challenge/tree/main/PyCitySchools/Results%20Images">Images</a></td></center>
 </tr>
 </table>
 </td>
