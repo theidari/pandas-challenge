@@ -186,6 +186,13 @@ Chater schools with an overall passing of >90% significantly outperform distric 
 > <sub>Score by School Type</sub></br>
 <img src="https://github.com/theidari/pandas-challenge/blob/main/PyCitySchools/Results%20Images/School%20Type.png">
 
+### conclusions
+
+1. Charter schools overall are significantly better than District schools.</br>
+2. spending more money does not increase students’ performance in courses.</br>
+3. it is highly recommended that keep capacity of schools be lower than 2000 students.</br>
+
+
 ## ◳ Documents & References
 
 ### Documents:</br>
