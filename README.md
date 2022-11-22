@@ -35,7 +35,7 @@ This project used python programming language and jupyter notebook to analyze sc
 ### Objective:
 
 
-<table border="5px" bordercolor = "red">
+<table align="center" border="0.1px" bordercolor = "white"
 <tr>
 <td >
 <table>
@@ -98,15 +98,14 @@ This project used python programming language and jupyter notebook to analyze sc
 <td>
         - top five (% overall passing)</br>
         - top five (% overall passing)</br>
-        - table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school</br>
-        - table that lists the average reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school</br>
+        - table that lists the average Math Score for students grade (9th, 10th, 11th, 12th) at each school</br>
+        - table that lists the average reading Score for students grade (9th, 10th, 11th, 12th) at each school</br>
         - Score by Spending Ranges (Per Student) / School Size / School Type, include:</br>
             * Average Math Score</br>
             * Average Reading Score</br>
             * % Passing Math</br>
             * % Passing Reading</br>
             * Overall Passing Rate</br>
-            </br>
 </td>
 </tr>
 </table>
