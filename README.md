@@ -29,11 +29,92 @@
 
 
 ## ◰ Overview of Project
-You are the new Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
-As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
+This project used python programming language and jupyter notebook to analyze school budgets and priorities and report school performance to the school board and mayor for making strategic decisions based on math and reading scores.
 
-### Objective
+### Objective:
+<table align="center" table border="1px" bordercolor="b">
+<tr>
+<td>
+<table border="2px" bordercolor="#F35557">
+<h4 align="center"><b><ins>District Summary</ins></b></h4>
+<tr>
+<td>
+    Create a dataframe to hold:</br>
+      - total number of schools</br>
+      - the total number of students</br>
+      - total budget</br>
+      - average math score</br>
+      - average reading score</br>
+      - passing math score percentage (70 or greater)</br>
+      - passing reading score percentage (70 or greater)</br>
+      - passing math and reading percentage (% Overall Passing)</br>
+      </br>
+      </br>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table border="2px" bordercolor="#F35557">
+<h4 align="center"><b><ins>School Summary</ins></b></h4>
+<tr>
+<td>
+    Create a dataframe to hold:</br>
+        - School Name</br>
+        - School Type</br>
+        - Total Students</br>
+        - Total School Budget</br>
+        - Per Student Budget</br>
+        - Average Math Score</br>
+        - Average Reading Score</br>
+        - % Passing Math</br>
+        - % Passing Reading</br>
+        - % Overall Passing</br>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table border="2px" bordercolor="#F35557">
+<h4 align="center"><b><ins>School Performance</ins></b></h4>
+<tr>
+<td>
+    Create a dataframe to hold:</br>
+        - School Name</br>
+        - School Type</br>
+        - Total Students</br>
+        - Total School Budget</br>
+        - Per Student Budget</br>
+        - Average Math Score</br>
+        - Average Reading Score</br>
+        - % Passing Math</br>
+        - % Passing Reading</br>
+        - % Overall Passing</br>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+School Performance
+
+    Create an overview table that summarizes key metrics about each school, including:
+        School Name
+        School Type
+        Total Students
+        Total School Budget
+        Per Student Budget
+        Average Math Score
+        Average Reading Score
+        % Passing Math
+        % Passing Reading
+        % Overall Passing
+    Create a dataframe to hold the above results
+
+
+
 
 ### Methods and Software:</br>
   - The analyses were performed using the <a href="https://github.com/theidari/pandas-challenge/edit/main/README.md#resources">Resources</a> dataset.</br>
