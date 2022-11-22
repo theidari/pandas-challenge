@@ -147,7 +147,7 @@ Below table compares 15 schools e.g. type, total students, budget and etc.</br>
 
 > <sub>School Summary</sub>
 <img src="https://github.com/theidari/pandas-challenge/blob/main/PyCitySchools/Results%20Images/School%20Summry.png">
-After Sorting by % overall passing, it shows charter type schools outperform others with more than 90%. probably due to less number of students even though the budget per students are less than district type schools. also in chater schools both math and reading course average are the same and they are uper than 80, but in district school they are not equal and student in this type schools have a weakness in math course with average of 77 and passing rate of 66 %.</br>
+After Sorting by % overall passing, it shows charter type schools outperform others with more than 90%. probably due to less number of students even though the budget per students are less than district type schools. also in charter schools both math and reading course average are the same and they are uper than 80, but in district school they are not equal and student in this type schools have a weakness in math course with average of 77 and passing rate of 66 %.</br>
 
 > <sub>School Summary Top Performing</sub></br>
 <img src="https://github.com/theidari/pandas-challenge/blob/main/PyCitySchools/Results%20Images/Top%20Performing.png">
@@ -190,7 +190,7 @@ Results indicate that increasing the number of students up to 2000 does not affe
 <img src="https://github.com/theidari/pandas-challenge/blob/main/PyCitySchools/Results%20Images/School%20Size.png">
 
 ### Score by School Type
-Chater schools with an overall passing of >90% significantly outperform distric schools with an average of 53%.</br>
+Charter schools with an overall passing of >90% significantly outperform District schools with an average of 53%.</br>
 > <sub>Score by School Type</sub></br>
 <img src="https://github.com/theidari/pandas-challenge/blob/main/PyCitySchools/Results%20Images/School%20Type.png">
 
