@@ -30,7 +30,7 @@
 
 ## ◰ Overview of Project
 
-This project used python programming language and jupyter notebook to analyze school budgets and priorities and report school performance to the school board and mayor for making strategic decisions based on math and reading scores.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project used python programming language and jupyter notebook to analyze school budgets and priorities and report school performance to the school board and mayor for making strategic decisions based on math and reading scores.
 
 ### Objective:
 
