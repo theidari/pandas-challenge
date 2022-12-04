@@ -101,11 +101,11 @@
         - table that lists the average Math Score for students grade (9th, 10th, 11th, 12th) at each school</br>
         - table that lists the average reading Score for students grade (9th, 10th, 11th, 12th) at each school</br>
         - Score by Spending Ranges (Per Student) / School Size / School Type, include:</br>
-            * Average Math Score</br>
-            * Average Reading Score</br>
-            * % Passing Math</br>
-            * % Passing Reading</br>
-            * Overall Passing Rate</br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Average Math Score</br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Average Reading Score</br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* % Passing Math</br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* % Passing Reading</br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Overall Passing Rate</br>
 </td>
 </tr>
 </table>
